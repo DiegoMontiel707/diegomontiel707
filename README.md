@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Diego Montiel
 
 🎓 Tecnólogo en Análisis y Desarrollo de Software (SENA)  
 🧠 Actualmente cursando Ingeniería en Software (CIAF)  
@@ -63,9 +63,9 @@
 
 ## 📫 Contáctame
 
-- Email: [Tu correo]  
-- LinkedIn: [Tu perfil]  
-- GitHub: [Tu usuario]
+- Email: montieldiego707@gmail.com  
+- GitHub: DiegoMontiel707
+diegomontiel707
 
 ---
 
